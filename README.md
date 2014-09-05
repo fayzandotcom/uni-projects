@@ -1,4 +1,4 @@
 uni-projects
 ============
 
-Projects developed for course assignments
+MS Computer Science - Asia Pacific University
